@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hardkrai
+- 👋 Hi, I’m Hardik
 - 👀 I’m interested in design and development 
 - 🌱 I’m currently learning react and nodejs
 - 💞️ I’m looking to collaborate on web application projects
