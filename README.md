@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hardik
 - 👀 I’m interested in design and development 
-- 🌱 I’m currently learning react and nodejs
-- 💞️ I’m looking to collaborate on web application projects
+- 🌱 I’m currently working on App Development With React Native
+- 💞️ I’m looking to grow myself in various technologies 
 - 📫 How to reach me - mail: raihardik2004@gmail.com
 
 <!---
